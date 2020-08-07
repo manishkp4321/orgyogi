@@ -54,19 +54,7 @@ For more Information about Allure report click [here](https://docs.qameta.io/all
 
 For more Information about Xray Rest API, used to create Xray Execution Results, click [here](https://confluence.xpand-it.com/display/XRAYCLOUD/REST+API)
 
-##Ares-Live Reporting
-Setup:-
-Navigate to testastra.com
-Project creation 
-Go to dashboard URL
-Login to dashboard and create a project 
-Copy API details i.e. Project Key and User Key of the created project, project_ name and ws _name.
 
-Config changes in Framework:-
-ARES dashboard: Name of the Dashboard. 
-token/UserToken/UserKey: A token will be generated upon creating project in dashboard for every user, which is user specific
-ProjectKey/projectId: A project key will get generated upon creating project in dashboard that can be used while posting test results to dashboard, which is unique to every project.
-ws_name: workspace name, you can get it from dashboard homepage (Dashboard URL)
  
 
 
